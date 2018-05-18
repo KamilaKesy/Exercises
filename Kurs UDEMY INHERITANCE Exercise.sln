@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kurs UDEMY INHERITANCE Exercise", "Kurs UDEMY INHERITANCE Exercise.csproj", "{1E2D408C-D94B-4BD6-B44C-EE16C3C1B274}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E2D408C-D94B-4BD6-B44C-EE16C3C1B274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E2D408C-D94B-4BD6-B44C-EE16C3C1B274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E2D408C-D94B-4BD6-B44C-EE16C3C1B274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E2D408C-D94B-4BD6-B44C-EE16C3C1B274}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F51F0376-84BB-4EA9-965E-1045AF690790}
+	EndGlobalSection
+EndGlobal
